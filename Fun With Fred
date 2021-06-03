@@ -1,0 +1,39 @@
+Assignment 1: Data Collection and Manipulation with FRED
+
+
+“Give someone some graphs, and you’ll have answered their questions for the day.  Teach someone to graph, and you’ll have answered their questions for life.”  - Economics Proverb, Author Unknown (Bob)
+
+The Federal Reserve Bank of St. Louis runs the “Federal Reserve Economic Database”, aka FRED.  It’s an amazing source of data, with some pretty sweet analysis tools that are both powerful and user-friendly.  You’re going to learn how to use it, providing proof of your new know-how in the form of seven graphs.  After making each graph in FRED, just click “download”, then “image (graph)” to get the .png file.  Put all seven .png files into a word document and email it to me.  
+
+Please use the subject line “fred homework”.  This makes it easy for me to locate your work, grade it, give you credit, etc.  Failure to do so will cost you 25% of your grade on this assignment and make me like you less. Your grade on this assignment is worth 10% of your course grade and is all or nothing.  
+
+This is grad school.  Do the assignment as listed above correctly and on time.  Excuses are lame and this assignment is easy, so just do it, and do it right.  If you need help, I am here to teach you, so just email me / text / call with any questions you have and I’ll happily provide guidance.    
+
+FRED can be found at the URL below, but my typical method of getting there is to simply google “fed fred”, usually followed by the name of whatever data series I want to look at.  
+
+https://fred.stlouisfed.org/
+
+We’re going to go over much of this in class, so don’t stress yourself out or waste a whole lot of time trying to figure these things out before we do so.
+
+Use FRED to do the following:
+
+1.	Make a graph of “real GDP”, in quarterly intervals, between Q1 of 2005 and Q4 of 2015.  
+2.	Transform the graph from question one into a graph showing percent change in quarterly GDP year-over-year.  
+3.	Make a new graph of “10-year treasury constant maturity rates”, in daily intervals, spanning from Q1:2013 through Q4:2015.  
+4.	Add a new series to the graph from question three using the “add line” button.  Add the “30-year treasury constant maturity rates”, making both visible on one graph.  
+5.	Do the same with “federal government current tax receipts” and “civilian unemployment rate”.  This time use quarterly data and get the span of time between 1955 and 1990, looking at percent change data for both.
+6.	Make a graph using any span of 5 years after 1993 that plots “federal government current tax receipts” alongside “state government tax collections, total taxes in Missouri”.  Both series should be in dollar value, not percent change.  Since one series’ values are waaaaaay larger than the other’s, you can’t really see them both on the same graph.  Fix this using FRED’s “format” tools under “edit graph”.  Set the right Y-axis to look measure Missouri’s numbers, leaving the left Y-axis to measure the US gov’s numbers.
+7.	Now make a new series that is the ratio of local unemployment (STL) to national unemployment.  Open the “unemployment rate in st. louis, mo-il (msa)”.  Click “edit graph”, scroll down to the “customize data” section, and add the “civilian unemployment rate” series.  Limit the data to the most recent five years.  Now divide the STL data by the national data by putting the appropriate formula into the “formula box”.  Both series were assigned letters when they were added, so if you added them in the order I described above, just type “a / b” into the formula box.  Download the graph.
+
+Congrats!  You now know how to acquire, manipulate, and download almost any economic data you’ll ever care about, at least with respect to the US economy.  If you’re looking for the international equivalent, check out World Bank’s “Data Bank” at https://data.worldbank.com   
+
+Even cooler, you now know how to answer your own questions and settle your own debates.  No longer must you take society’s bloviations at face-value.  Simply flash the FRED app on your smartphone and watch the factless hiss and shrink back into the shadows.
+
+...Sometimes I just get so excited about FRED...
+
+
+
+
+
+
+
